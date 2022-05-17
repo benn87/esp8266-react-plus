@@ -1,4 +1,4 @@
-# ESP8266 React
+# ESP8266 React - Plus
 
 [![Build Status](https://travis-ci.org/rjwats/esp8266-react.svg?branch=master)](https://travis-ci.org/rjwats/esp8266-react)
 
